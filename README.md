@@ -13,6 +13,6 @@ The datasets used in this analysis include:
 - Provider Relief Fund by State (https://data.cdc.gov/Administrative/Provider-Relief-Fund-by-State/egkx-k86t)
 
 ## Key Visulizations
-1. **Net Income vs. Net Patient Revenue for Funded vs. Non-Funded Hospitals (Scatter Plots with Regression Lines):**
+1. **Net Income vs. Net Patient Revenue for Funded vs. Non-Funded Hospitals (Scatter Plots with Regression Lines)**
 3. **Total Fund Balance by State (Choropleth Map)**
 4. **Hospital Clustering Based on PHE Funding and Bed Occupancy (Scatter Plot)**
